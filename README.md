@@ -1,6 +1,6 @@
 # Recession Early Warning Model: Macroeconomic Risk Prediction
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbdoulayeSeydi/recession-early-warning/blob/main/recession_model.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/AbdoulayeSeydi/recession-early-warning/blob/main/recession_early_warning_model.ipynb)
 
 ![Python](https://img.shields.io/badge/python-3.8+-blue.svg)
 ![Status](https://img.shields.io/badge/status-complete-brightgreen.svg)
